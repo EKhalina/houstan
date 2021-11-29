@@ -1,0 +1,39 @@
+.pack1{
+    width: 70%;
+    margin: auto;
+}
+h1,h2,h3{
+    font-family: Arial, Helvetica, sans-serif;  
+    margin-bottom: 15px;
+    padding: 15px;
+}
+h1{
+    font-size: 32px;
+}
+p{
+    margin: 15px;
+}
+.table{
+    margin: auto;
+}
+table{
+    border-collapse: collapse;
+    margin: auto 15px;
+}
+th, td{
+    border: 1px solid black;
+}
+.conteiner{
+    margin: auto;
+}
+figcaption{
+    font-style: italic;
+}
+figure{
+    float: right;
+    text-align: center;
+}
+img{
+    float: right; 
+    margin: 0 1.5% 0 1.5%;
+}
